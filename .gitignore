@@ -1,2 +1,4 @@
 input/*
+!input/index.html
 output/*
+!output/index.html
